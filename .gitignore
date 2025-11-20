@@ -1,0 +1,37 @@
+# Arquivos do Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.swp
+*~
+
+# Arquivos do NetLogo (opcional - descomente se não quiser versionar)
+# *.nlogo
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos do sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos compilados
+*.class
+*.pyc
+__pycache__/
+
